@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidJAXRSClient/AndroidJAXRSClient.iml" filepath="$PROJECT_DIR$/AndroidJAXRSClient/AndroidJAXRSClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidJAXRSClientProject.iml" filepath="$PROJECT_DIR$/AndroidJAXRSClientProject.iml" />
+    </modules>
+  </component>
+</project>
+
